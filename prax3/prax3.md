@@ -1,4 +1,4 @@
-# Praktikum 3
+# Praktikum 5
 
 ## 5-1:
 a) Failile on vaja 400, kaustale 100  
