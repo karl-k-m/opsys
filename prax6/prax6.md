@@ -1,4 +1,5 @@
 # Praktikum 6
+Siin praktikumis kasutasin erinevaid praktikumimaterjalis märgitud Linuxi käske.
 
 ## 6-1:
 <img width="960" alt="6-1-1" src="https://github.com/karl-k-m/opsys/assets/74490726/c76dc870-a947-489d-ac1a-78229b97e662">
