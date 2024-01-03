@@ -62,6 +62,8 @@ echo $b
 ```
 
 ## AI Skript
+![image](https://github.com/karl-k-m/opsys/assets/74490726/048b9e59-104b-4bfc-a2a8-fd2180cfe132)
+
 ```
 #!/bin/bash
 
