@@ -1,4 +1,5 @@
 # Prax 7
+Uurisin, kuidas lokaalseid ja võrgukettaid Windowsis ja Linuxis kasutada.
 
 ## 7-1
 Lähtestamine võimaldab kettale tekitada partitionid, millele luuakse failisüsteemid. Üldjuhul suur osa OS-e teevad seda tänapäeval automaatselt (s.h. ka nt Ubuntu), kuid tihtipeale on vaja spetsiifilisemat süsteemi ning sel juhul tuleb asi teha käsitsi.
