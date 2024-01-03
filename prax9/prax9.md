@@ -19,4 +19,15 @@ Siin kasutasin ressursihaldustööriistu ja uurisin protsesse.
 | Mis protsess kõige rohkem salvestusseadmelt loeb?      | MsMpEng.exe                                                            |                                                                     |                                                                                                        | Process Explorer         |
 | ^ Mis failist see loeb?                                |                                                                        |                                                                     |                                                                                                        |                          |
 
-## 
+## sha1sum
+zero variant võttis kõige rohkem us (49.3%) ja urandom võttis kõige rohkem id (49.1%)
+<img width="960" alt="sha1sum_zero" src="https://github.com/karl-k-m/opsys/assets/74490726/1fd8254b-9c94-4961-aab2-0d9f3227c0c7">
+<img width="960" alt="sha1sum_random" src="https://github.com/karl-k-m/opsys/assets/74490726/9c87ed93-f0fc-422c-8b63-8eb4d5433a66">
+
+
+## Network
+Kõige suurema võrguliiklusega oli Firefox portil 443, kohalik ip 10.0.2.15 ja võõras ip 2a00:1450:4026:808::200e (Youtube)
+![image](https://github.com/karl-k-m/opsys/assets/74490726/3e4fbb95-d255-41ba-82a1-abab8b9b085f)
+
+## Sõber kurdab
+Kõige tihedamini on probleem selles, et mingi konkreetne programm võtab väga palju mälu või protsessori võimekust. Eriti on see probleem vanematel arvutitel, sest programmid uuendavad end automaatselt ja bloat-i pannakse juurde, sest eeldatakse, et inimestel on kõigil tänapäevased arvutid.
