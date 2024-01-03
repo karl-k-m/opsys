@@ -15,7 +15,8 @@ read mn
 echo "$nimi, $eriala, $mn"
 ```
 
-## Skript 2
+## Skript 4
+<img width="960" alt="neljas" src="https://github.com/karl-k-m/opsys/assets/74490726/d8e1a416-e8d2-45b1-a644-947bf3996344">
 
 ```
 #!/bin/sh
@@ -30,6 +31,7 @@ for i in *
 ```
 
 ## Skript 3
+<img width="960" alt="viies" src="https://github.com/karl-k-m/opsys/assets/74490726/afdb89cc-ebb5-4ba3-8591-03a62d5e53c7">
 
 ```
 #!/bin/sh
