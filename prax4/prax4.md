@@ -1,4 +1,5 @@
 # Praktikum 4
+Siin praktikumis tegelesin Windowsi seadistamise ja turvaseadetega.
 
 ## 4-1
 <img width="959" alt="4-1" src="https://github.com/karl-k-m/opsys/assets/74490726/214a6262-96f4-4723-9cf9-e69189d632ac">
