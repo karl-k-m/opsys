@@ -40,6 +40,7 @@ echo $pid
 ```
 
 ## Skript nr 6
+<img width="960" alt="kuues" src="https://github.com/karl-k-m/opsys/assets/74490726/6002b92e-de08-4253-aa7c-3f5fe55f6d9e">
 
 ```
 #!/bin/sh
