@@ -39,6 +39,27 @@ pid=$(pgrep $1)
 echo $pid
 ```
 
+## Skript nr 6
+
+```
+#!/bin/sh
+aste () {
+    a=$1
+    b=$2
+    out=1
+    c=0
+
+    while [ $c -lt $b ]; do
+        out=$((out * a))
+        c=$((c + 1))
+    done
+    echo "$out"
+}
+
+b=$(aste $1 $2)
+echo $b
+```
+
 ## AI Skript
 ```
 #!/bin/bash
