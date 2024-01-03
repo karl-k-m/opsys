@@ -1,4 +1,5 @@
 # Praktikum 5
+Siin praktikumis tegelesin Linuxi failiõigustega.
 
 ## 5-1:
 a) Failile on vaja 400, kaustale 100  
